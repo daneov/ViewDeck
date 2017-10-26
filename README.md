@@ -3,7 +3,7 @@
 [![CocoaPods Version][image-2]][1]
 ![GitHub Tag][image-3]
 ![GitHub Release][image-4]
-
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Semantic Versioning][image-5]][2]
 ![License][image-6]
 ![Platform][image-7]
